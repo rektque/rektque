@@ -6,12 +6,6 @@
 <hr/>
 
 <p align="center">
-  <img src="assets/banner.png" alt="rektque banner" width="900" />
-</p>
-
-<br/>
-
-<p align="center">
   <img src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,tailwind,graphql,go,python,aws&theme=dark" />
 </p>
 
@@ -43,7 +37,6 @@
 ### 📫 Contact
 - Twitter: `@rektque`
 - Discord: `rektque`
-
 
 <p align="center">
   <sub>Minimal. Fast. Scalable.</sub>
