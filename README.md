@@ -18,7 +18,7 @@
   <a href="https://twitter.com/rektque">
     <img src="https://img.shields.io/badge/TWITTER-ffffff?style=for-the-badge&logo=twitter&logoColor=red" />
   </a>
-  <a href="https://discord.gg/mdshine">
+  <a href="https://discord.gg/sharknes">
     <img src="https://img.shields.io/badge/DISCORD-ff0000?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
